@@ -3,6 +3,6 @@
 ## Useage
 >python3 objectviwer.py
 
-drag and drop .obj file in window
+drag and drop .obj and .bvh file in window
 
 ## Requirment
