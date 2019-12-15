@@ -9,6 +9,6 @@ drag and drop .obj file in the window of objectviewr.py
 # bvhviwer
 
 ## Usage
->python3 ./bvh_viwer/bvhviwer.py
+>python3 ./bvh_viwer/bvh.py
 
 drag and drop . obj file in the window of bvhviwer.py
